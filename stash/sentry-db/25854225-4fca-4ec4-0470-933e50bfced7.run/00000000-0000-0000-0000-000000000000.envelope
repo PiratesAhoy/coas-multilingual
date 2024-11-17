@@ -1,0 +1,3 @@
+{"dsn":"https://8ae9220bf1ee1d13a6b3bfe1fe1c8894@o4506010910654464.ingest.sentry.io/4506010914652160"}
+{"type":"session","length":250}
+{"init":true,"sid":"b3078013-855b-4475-9d5e-685acb2cdea4","status":"crashed","errors":1,"started":"2024-11-17T13:09:00.026Z","duration":1.654,"attrs":{"release":"HEAD (no branch)(11df7743f11b514f7e009758d1f676d7b3d5d9e8)","environment":"production"}}

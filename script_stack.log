@@ -1,0 +1,6 @@
+Call stack:
+SendMessage (INTERNAL FUNCTION)
+CreateBackEnvironment (FUNCTION) at interface\mainmenu.c:164
+InitInterface (FUNCTION) at interface\mainmenu.c:27
+LaunchMainMenu (FUNCTION) at interface\interface.c:587
+frame (EVENT)

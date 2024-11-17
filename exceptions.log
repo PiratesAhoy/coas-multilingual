@@ -1,4 +1,4 @@
 (root exception)
-magic=0x19930520 (classified 1)
-class std::runtime_error
-fail to create program
+Инструкция по адресу 0xp обратилась к памяти по адресу 0xp. Память не может быть s.
+
+magic=0x0 (classified -1)

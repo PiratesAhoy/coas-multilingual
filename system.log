@@ -1,0 +1,181 @@
+[2024-11-17 16:09:00.026] [system] [info] Logging system initialized. Running on HEAD (no branch)(11df7743f11b514f7e009758d1f676d7b3d5d9e8)
+[2024-11-17 16:09:00.026] [system] [info] mimalloc-redirect status: false
+[2024-11-17 16:09:00.696] [system] [trace] Unable to load file: project.df
+[2024-11-17 16:09:00.921] [system] [info] Initializing DirectX 9
+[2024-11-17 16:09:00.968] [system] [info] Querying available DirectX 9 adapters... detected 1:
+[2024-11-17 16:09:00.968] [system] [info] 0: NVIDIA GeForce RTX 4070 Ti (\\.\DISPLAY1) 
+[2024-11-17 16:09:00.968] [system] [info] Using adapter with index 0 (configurable by setting adapter=<index> inside engine.ini)
+[2024-11-17 16:09:01.138] [system] [info] Can't load texture resource\textures\FONTS\INTERFACE NORMAL FONT.TGA.TX
+[2024-11-17 16:09:01.138] [system] [info] Not Found Texture: fonts\interface normal font.tga.tx
+[2024-11-17 16:09:01.138] [system] [info] Can't init font INTERFACE_NORMAL
+[2024-11-17 16:09:01.139] [system] [info] Can't load font INTERFACE_NORMAL
+[2024-11-17 16:09:01.139] [system] [info] can not init start font: INTERFACE_NORMAL
+[2024-11-17 16:09:01.139] [system] [info] resource\models\islands\barbados\barbados_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.139] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.139] [system] [info] resource\models\islands\Jamaica\jamaica_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.139] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.139] [system] [info] resource\models\islands\PuertoRico\PuertoRico_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.139] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.139] [system] [info] resource\models\islands\Cuba1\Cuba1_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.139] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.139] [system] [info] resource\models\islands\Cuba2\Cuba2_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.139] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.139] [system] [info] resource\models\islands\Curacao\Curacao_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.139] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.139] [system] [info] resource\models\islands\Tortuga\Tortuga_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.139] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.139] [system] [info] resource\models\islands\SentMartin\SentMartin_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.139] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.139] [system] [info] resource\models\islands\Trinidad\Trinidad_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.139] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.139] [system] [info] resource\models\islands\Nevis\Nevis_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.139] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.139] [system] [info] resource\models\islands\Antigua\antigua_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.139] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.139] [system] [info] resource\models\islands\Guadeloupe\Guadeloupe_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.139] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.139] [system] [info] resource\models\islands\Martinique\Martinique_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.139] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.139] [system] [info] resource\models\islands\Hispaniola1\Hispaniola1_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.139] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.139] [system] [info] resource\models\islands\Hispaniola2\Hispaniola2_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.139] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.139] [system] [info] resource\models\islands\Bermudes\Bermudes_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.139] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.139] [system] [info] resource\models\islands\Dominica\Dominica_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.139] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.139] [system] [info] resource\models\islands\Terks\Terks_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.139] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.139] [system] [info] resource\models\islands\Caiman\Caiman_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.139] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.139] [system] [info] resource\models\islands\PortoBello\PortoBello_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.139] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.139] [system] [info] resource\models\islands\Cartahena\Cartahena_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.139] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.139] [system] [info] resource\models\islands\Maracaibo\Maracaibo_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.139] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.140] [system] [info] resource\models\islands\Caracas\Caracas_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.140] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.140] [system] [info] resource\models\islands\Cumana\Cumana_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.140] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.140] [system] [info] resource\models\islands\SantaCatalina\SantaCatalina_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.140] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.140] [system] [info] resource\models\islands\Beliz\Beliz_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.140] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.140] [system] [info] resource\models\islands\LostShipsCity\LostShipsCity_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.140] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.157] [system] [info] Using PC_SCREEN parameters
+[2024-11-17 16:09:01.157] [system] [info] Can't load texture resource\textures\INTERFACES\CURSOR32.TGA.tx
+[2024-11-17 16:09:01.187] [system] [info] Can't load texture resource\textures\FONTS\INTERFACE NORMAL FONT.TGA.TX
+[2024-11-17 16:09:01.187] [system] [info] Not Found Texture: fonts\interface normal font.tga.tx
+[2024-11-17 16:09:01.187] [system] [info] Can't init font interface_normal
+[2024-11-17 16:09:01.188] [system] [info] Can't load font interface_normal
+[2024-11-17 16:09:01.206] [system] [info] Can't load texture resource\textures\FONTS\INTERFACE NORMAL FONT.TGA.TX
+[2024-11-17 16:09:01.206] [system] [info] Not Found Texture: fonts\interface normal font.tga.tx
+[2024-11-17 16:09:01.206] [system] [info] Can't init font interface_normal
+[2024-11-17 16:09:01.206] [system] [info] Can't load font interface_normal
+[2024-11-17 16:09:01.225] [system] [info] Can't load texture resource\textures\FONTS\INTERFACE NORMAL FONT.TGA.TX
+[2024-11-17 16:09:01.225] [system] [info] Not Found Texture: fonts\interface normal font.tga.tx
+[2024-11-17 16:09:01.225] [system] [info] Can't init font interface_normal
+[2024-11-17 16:09:01.225] [system] [info] Can't load font interface_normal
+[2024-11-17 16:09:01.225] [system] [info] Can't load texture resource\textures\LOADING\RESCUE.TGA.tx
+[2024-11-17 16:09:01.245] [system] [info] Can't load texture resource\textures\LOADING\PROGRESS.TGA.tx
+[2024-11-17 16:09:01.246] [system] [info] Progress error!
+[2024-11-17 16:09:01.252] [system] [info] Using FMOD 00020205
+[2024-11-17 16:09:01.291] [system] [info] Can't load texture resource\textures\PARTICLES_LIST.TGA.tx
+[2024-11-17 16:09:01.291] [system] [info] Can't load texture resource\textures\PARTICLES_LISTNM.TGA.tx
+[2024-11-17 16:09:01.291] [system] [warning] Failed to create directory iterator for 'resource\particles': Системе не удается найти указанный путь.
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\barbados\barbados_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\Jamaica\jamaica_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\PuertoRico\PuertoRico_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\Cuba1\Cuba1_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\Cuba2\Cuba2_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\Curacao\Curacao_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\Tortuga\Tortuga_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\SentMartin\SentMartin_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\Trinidad\Trinidad_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\Nevis\Nevis_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\Antigua\antigua_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\Guadeloupe\Guadeloupe_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\Martinique\Martinique_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\Hispaniola1\Hispaniola1_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\Hispaniola2\Hispaniola2_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\Bermudes\Bermudes_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\Dominica\Dominica_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\Terks\Terks_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\Caiman\Caiman_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\PortoBello\PortoBello_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\Cartahena\Cartahena_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\Maracaibo\Maracaibo_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\Caracas\Caracas_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\Cumana\Cumana_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\SantaCatalina\SantaCatalina_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\Beliz\Beliz_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.297] [system] [info] resource\models\islands\LostShipsCity\LostShipsCity_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.297] [system] [info] ?void LOCATOR::LocateForI(VDATA * pData)
+[2024-11-17 16:09:01.447] [system] [info] Can't load texture resource\textures\WEATHER\SEA\PENA\PENA.TGA.tx
+[2024-11-17 16:09:01.448] [system] [info] Can't load texture resource\textures\SEATRASH.TGA.tx
+[2024-11-17 16:09:01.448] [system] [info] Can't load texture resource\textures\SEALIGHT.TGA.tx
+[2024-11-17 16:09:01.448] [system] [trace] Can't load file: resource\sea\sea0000.tga
+[2024-11-17 16:09:01.448] [system] [info] Sea: Can't load resource\sea\sea0000.tga
+[2024-11-17 16:09:01.448] [system] [error] Failed to initialize entity for 'sea'
+[2024-11-17 16:09:01.449] [system] [info] Can't load texture resource\textures\WEATHER\SUN\GLOW\SUN.TGA.tx
+[2024-11-17 16:09:01.449] [system] [info] Can't load texture resource\textures\WEATHER\SUN\GLOW\MOON.TGA.tx
+[2024-11-17 16:09:01.449] [system] [info] Can't load texture resource\textures\WEATHER\SUN\GLOW\SUNGLOW.TGA.tx
+[2024-11-17 16:09:01.449] [system] [info] Can't load texture resource\textures\WEATHER\SUN\REFLECTION\REFL_NIGHT.TGA.tx
+[2024-11-17 16:09:01.450] [system] [info] Can't load texture resource\textures\WEATHER\SKIES\11\SKY_FR.TGA.tx
+[2024-11-17 16:09:01.450] [system] [info] Can't load texture resource\textures\WEATHER\SKIES\12\SKY_FR.TGA.tx
+[2024-11-17 16:09:01.450] [system] [info] Can't load texture resource\textures\WEATHER\SKIES\11\SKY_LF.TGA.tx
+[2024-11-17 16:09:01.450] [system] [info] Can't load texture resource\textures\WEATHER\SKIES\12\SKY_LF.TGA.tx
+[2024-11-17 16:09:01.450] [system] [info] Can't load texture resource\textures\WEATHER\SKIES\11\SKY_BK.TGA.tx
+[2024-11-17 16:09:01.450] [system] [info] Can't load texture resource\textures\WEATHER\SKIES\12\SKY_BK.TGA.tx
+[2024-11-17 16:09:01.450] [system] [info] Can't load texture resource\textures\WEATHER\SKIES\11\SKY_RT.TGA.tx
+[2024-11-17 16:09:01.450] [system] [info] Can't load texture resource\textures\WEATHER\SKIES\12\SKY_RT.TGA.tx
+[2024-11-17 16:09:01.450] [system] [info] Can't load texture resource\textures\WEATHER\SKIES\11\SKY_UP.TGA.tx
+[2024-11-17 16:09:01.450] [system] [info] Can't load texture resource\textures\WEATHER\SKIES\12\SKY_UP.TGA.tx
+[2024-11-17 16:09:01.453] [system] [info] Can't load texture resource\textures\WEATHER\ASTRONOMY\STARS.TGA.tx
+[2024-11-17 16:09:01.453] [system] [info] Can't load texture resource\textures\WEATHER\ASTRONOMY\PLANETS\MERCURY.TGA.tx
+[2024-11-17 16:09:01.453] [system] [info] Can't load texture resource\textures\WEATHER\ASTRONOMY\PLANETS\VENUS.TGA.tx
+[2024-11-17 16:09:01.453] [system] [info] Can't load texture resource\textures\WEATHER\ASTRONOMY\PLANETS\MARS.TGA.tx
+[2024-11-17 16:09:01.453] [system] [info] Can't load texture resource\textures\WEATHER\ASTRONOMY\PLANETS\JUPITER.TGA.tx
+[2024-11-17 16:09:01.453] [system] [info] Can't load texture resource\textures\WEATHER\ASTRONOMY\PLANETS\SATURN.TGA.tx
+[2024-11-17 16:09:01.453] [system] [info] Can't load texture resource\textures\WEATHER\ASTRONOMY\PLANETS\URANUS.TGA.tx
+[2024-11-17 16:09:01.453] [system] [info] Can't load texture resource\textures\WEATHER\ASTRONOMY\PLANETS\NEPTUNE.TGA.tx
+[2024-11-17 16:09:01.454] [system] [info] Can't load texture resource\textures\SAIL_ROPE.TGA.tx
+[2024-11-17 16:09:01.454] [system] [info] Can't load texture resource\textures\FLAGALL_SHIP.TGA.tx
+[2024-11-17 16:09:01.454] [system] [info] Can't load texture resource\textures\FLAGALL_SHIP.TGA.tx
+[2024-11-17 16:09:01.454] [system] [info] Can't load texture resource\textures\VANT.TGA.tx
+[2024-11-17 16:09:01.454] [system] [info] Can't load texture resource\textures\CURSOR.TGA.tx
+[2024-11-17 16:09:01.454] [system] [trace] Unable to load file: resource\foam\locations\MainMenu.ini
+[2024-11-17 16:09:01.454] [system] [info] Can't load texture resource\textures\LOCEFX\FIREFLY.TGA.tx
+[2024-11-17 16:09:01.454] [system] [info] Can't load texture resource\textures\SHIPSFLARES\CORONA.TGA.tx
+[2024-11-17 16:09:01.454] [system] [info] resource\models\MainMenu\MainMenu.gm: can't open geometry file
+[2024-11-17 16:09:01.454] [system] [info] resource\models\MainMenu\MainMenu_locators.gm: can't open geometry file
+[2024-11-17 16:09:01.454] [system] [info] Warning! Interface Back scene: Can`t find locator menu02
+[2024-11-17 16:09:01.454] [system] [info] resource\models\mainmenu\menu02_active.gm: can't open geometry file

@@ -923,7 +923,8 @@ void NewGame_continue()
 		LoadMainCharacterInFirstLocationGroup("Estate", "reload", "reload1");
     }
 	ReloadProgressUpdate();
-	
+	DeleteClass(&sound);
+	ResumeAllSounds();
 	//InitTowns();
 	UpdateCrewInColonies(); // пересчет наемников в городах
 	ReloadProgressUpdate();

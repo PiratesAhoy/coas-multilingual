@@ -1,0 +1,73 @@
+[2024-11-17 16:09:00.915] [compile] [trace] Init encounters complete.
+[2024-11-17 16:09:01.140] [compile] [trace] How islands = 26
+[2024-11-17 16:09:01.149] [compile] [trace] Init weathers complete. 34 weathers found.
+[2024-11-17 16:09:01.297] [compile] [trace] How islands = 26
+[2024-11-17 16:09:01.369] [compile] [trace] Antigua locations 19
+[2024-11-17 16:09:01.369] [compile] [trace] Barbados locations 46
+[2024-11-17 16:09:01.370] [compile] [trace] Curacao locations 67
+[2024-11-17 16:09:01.370] [compile] [trace] LostShipsIsland locations 84
+[2024-11-17 16:09:01.370] [compile] [trace] Guadeloupe locations 106
+[2024-11-17 16:09:01.370] [compile] [trace] Jamaica locations 135
+[2024-11-17 16:09:01.370] [compile] [trace] Caracas locations 149
+[2024-11-17 16:09:01.370] [compile] [trace] Pearl locations 165
+[2024-11-17 16:09:01.370] [compile] [trace] Bermudes locations 179
+[2024-11-17 16:09:01.371] [compile] [trace] Cartahena locations 195
+[2024-11-17 16:09:01.371] [compile] [trace] Maracaibo locations 214
+[2024-11-17 16:09:01.371] [compile] [trace] Tenotchitlan locations 239
+[2024-11-17 16:09:01.371] [compile] [trace] LaVega locations 246
+[2024-11-17 16:09:01.371] [compile] [trace] SantoDomingo locations 269
+[2024-11-17 16:09:01.371] [compile] [trace] PortPax locations 282
+[2024-11-17 16:09:01.371] [compile] [trace] Santiago locations 306
+[2024-11-17 16:09:01.371] [compile] [trace] PuertoPrincipe locations 313
+[2024-11-17 16:09:01.372] [compile] [trace] Havana locations 335
+[2024-11-17 16:09:01.372] [compile] [trace] Martinique locations 363
+[2024-11-17 16:09:01.372] [compile] [trace] Panama locations 386
+[2024-11-17 16:09:01.372] [compile] [trace] PortoBello locations 405
+[2024-11-17 16:09:01.372] [compile] [trace] Beliz locations 431
+[2024-11-17 16:09:01.372] [compile] [trace] Nevis locations 454
+[2024-11-17 16:09:01.372] [compile] [trace] PuertoRico locations 473
+[2024-11-17 16:09:01.373] [compile] [trace] Cumana locations 492
+[2024-11-17 16:09:01.373] [compile] [trace] SantaCatalina locations 517
+[2024-11-17 16:09:01.373] [compile] [trace] Trinidad locations 536
+[2024-11-17 16:09:01.373] [compile] [trace] SentMartin locations 559
+[2024-11-17 16:09:01.373] [compile] [trace] Tortuga locations 581
+[2024-11-17 16:09:01.373] [compile] [trace] Dominica locations 586
+[2024-11-17 16:09:01.373] [compile] [trace] Terks locations 591
+[2024-11-17 16:09:01.373] [compile] [trace] Caiman locations 596
+[2024-11-17 16:09:01.373] [compile] [trace] Common locations 623
+[2024-11-17 16:09:01.374] [compile] [trace] Number of locations: 700
+[2024-11-17 16:09:01.378] [compile] [trace] Заполнение трупов с предмета 146
+[2024-11-17 16:09:01.378] [compile] [trace] Всего предметов (размерность массива) 220
+[2024-11-17 16:09:01.378] [compile] [trace] Начальный специальный предмет: Rock_letter
+[2024-11-17 16:09:01.378] [compile] [trace] Конечный специальный предмет: map_bad
+[2024-11-17 16:09:01.397] [compile] [trace] Antigua: 12
+[2024-11-17 16:09:01.397] [compile] [trace] Barbados: 22
+[2024-11-17 16:09:01.397] [compile] [trace] Jamaica: 37
+[2024-11-17 16:09:01.397] [compile] [trace] Curacao: 46
+[2024-11-17 16:09:01.397] [compile] [trace] Guadeloupe: 55
+[2024-11-17 16:09:01.398] [compile] [trace] Santiago: 64
+[2024-11-17 16:09:01.398] [compile] [trace] PuertoPrincipe: 68
+[2024-11-17 16:09:01.398] [compile] [trace] Martinique: 82
+[2024-11-17 16:09:01.398] [compile] [trace] Havana: 91
+[2024-11-17 16:09:01.398] [compile] [trace] Nevis: 101
+[2024-11-17 16:09:01.398] [compile] [trace] PuertoRico: 110
+[2024-11-17 16:09:01.399] [compile] [trace] SentMartin: 120
+[2024-11-17 16:09:01.400] [compile] [trace] Bermudes: 125
+[2024-11-17 16:09:01.400] [compile] [trace] Trinidad: 134
+[2024-11-17 16:09:01.400] [compile] [trace] PortPax: 143
+[2024-11-17 16:09:01.400] [compile] [trace] SantoDomingo: 153
+[2024-11-17 16:09:01.400] [compile] [trace] LaVega: 157
+[2024-11-17 16:09:01.400] [compile] [trace] Tortuga: 167
+[2024-11-17 16:09:01.401] [compile] [trace] Panama: 175
+[2024-11-17 16:09:01.401] [compile] [trace] PortoBello: 184
+[2024-11-17 16:09:01.401] [compile] [trace] Cartahena: 193
+[2024-11-17 16:09:01.401] [compile] [trace] Caracas: 202
+[2024-11-17 16:09:01.401] [compile] [trace] Cumana: 211
+[2024-11-17 16:09:01.401] [compile] [trace] SantaCatalina: 220
+[2024-11-17 16:09:01.402] [compile] [trace] Beliz: 229
+[2024-11-17 16:09:01.402] [compile] [trace] Maracaibo: 238
+[2024-11-17 16:09:01.404] [compile] [trace] Story: 247
+[2024-11-17 16:09:01.404] [compile] [trace] ВСЕГО НПС В ИГРЕ (статиков) = 247
+[2024-11-17 16:09:01.404] [compile] [trace] Version = v1.0.0  DEV
+[2024-11-17 16:09:01.440] [compile] [trace] Mistake island id into store:  id=Panama
+[2024-11-17 16:09:01.441] [compile] [trace] Mistake Colony id into store:  id=none
