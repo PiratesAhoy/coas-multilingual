@@ -1,0 +1,4 @@
+(root exception)
+magic=0x19930520 (classified 1)
+class std::runtime_error
+fail to create program
